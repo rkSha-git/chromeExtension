@@ -1,0 +1,49 @@
+*{
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    min-width: 320px;
+}
+
+input{
+    width: 320px;
+    box-sizing: border-box;
+    padding-left: 10px;
+    height: 34px;
+    display: block;
+    border: 2px solid rgb(156, 156, 156);
+    border-radius: 3px;
+}
+
+button{
+    padding:7px 14px;
+    margin-top: 5px;
+    border-radius: 3px;
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+}
+
+#del{
+    background-color: white;
+    color: green;
+}
+
+#tab{
+    padding: 7px 20px;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 2px;
+}
+
+li{
+    margin-bottom: 5px;
+}
+
+a{
+    color:  green;
+}
